@@ -1,0 +1,26 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Box sizing for all elements */
+* {
+    box-sizing: border-box;
+}
+
+/* Background color for dark background elements */
+.bg-dark {
+    background-color: #75767B;
+}
+
+/* Margin top utility class */
+.mt-50 {
+    margin-top: 50px;
+}
+
+/* Example styling for a canvas element */
+#canvas {
+    border: 2px solid black;
+    /* Add additional styles as needed */
+}
